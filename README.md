@@ -1,6 +1,5 @@
 ## Ola! eu sou a Rebecca Vitoria
 - 🌱 Estudando node.js
-- 📫 Contate-me no email: rebeccavitoria174@gmail.com
 - 😄 Pronouns:Ela/Dela
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RebeccaReis&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&line_height=33px)](https://github.com/RebeccaReis/github-readme-stats)
